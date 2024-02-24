@@ -1,5 +1,3 @@
-The Quatzal Community 
-=======================
 We are a community available for anyone to participate in, with the purpose of 
 developing and encouraging the creation of collaborative creative spaces
 available under an Approved Community License where users can export their 
