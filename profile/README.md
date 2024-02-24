@@ -8,7 +8,7 @@ contributing member on Github by
 [starting a discussion](https://github.com/the-quetzal-community/.github/discussions)
 and letting us know how you would like to contribute to our cause.
 
-## What is a Creative Space?
+### What is a Creative Space?
 A creative space is generally a software application, webapp, or game where 
 users can arrange primitive elements together to create new things.
 
