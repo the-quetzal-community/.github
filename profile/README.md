@@ -19,7 +19,7 @@ If you or your company wants to develop and maintain a profitable creative
 space, we maintain [The Quetzal Community Trademark License™](https://the.quetzal.community/trademark-license) 
 which may serve as a useful pathway for you to commercialise your creative spaces 
 without restricting the creative freedom of your users. We will actively
-support any products or services with substantial buildable source available 
+support any creative spaces with substantial buildable source available 
 under this license. 
 
 Lastly, we maintain a [Wishlist](https://the.quetzal.community/wishlist) 
