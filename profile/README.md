@@ -3,7 +3,7 @@ developing and encouraging the creation of collaborative creative spaces
 available under an Approved Community License where users can share their 
 creations and retain free usage rights to their work.
 
-We actively support and promote these projects and You can join us as a 
+We actively support and promote these projects and you can join us as a 
 contributing member on Github by 
 [starting a discussion](https://the.quetzal.community/.github/discussions)
 and letting us know how you would like to contribute to our cause.
