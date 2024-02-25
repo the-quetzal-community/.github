@@ -16,7 +16,7 @@ If you are looking for creative spaces to explore, we maintain a list of
 [Approved Spaces](https://the.quetzal.community/approved-spaces).
 
 If you or your company wants to develop and maintain a profitable creative 
-space, we maintain [The Quatzal Community Trademark License™](https://the.quetzal.community/trademark-license) 
+space, we maintain [The Quetzal Community Trademark License™](https://the.quetzal.community/trademark-license) 
 which may serve as a useful pathway for you to commercialise your creative spaces 
 without restricting the creative freedom of your users. We will actively
 support any products or services with substantial buildable source available 
