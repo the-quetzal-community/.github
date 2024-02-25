@@ -1,5 +1,5 @@
 We are a community available for anyone to participate in, with the purpose of 
-developing and encouraging the creation of collaborative creative spaces
+developing and encouraging the use of collaborative creative spaces
 available under an [Approved License](https://the.quetzal.community/approved-licenses) 
 where users can share their creations and retain free usage rights to their work.
 
