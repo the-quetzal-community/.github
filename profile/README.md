@@ -1,7 +1,7 @@
 We are a community available for anyone to participate in, with the purpose of 
 developing and encouraging the creation of collaborative creative spaces
-available under an Approved Community License where users can share their 
-creations and retain free usage rights to their work.
+available under an [Approved License](https://the.quetzal.community/approved-licenses) 
+where users can share their creations and retain free usage rights to their work.
 
 We actively support and promote these projects and you can join us as a 
 contributing member on Github by 
