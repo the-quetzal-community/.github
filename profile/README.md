@@ -24,7 +24,7 @@ under this license.
 
 Lastly, we maintain a [Wishlist](https://the.quetzal.community/wishlist) 
 of proprietary creative spaces, or closed creative bubbles (that lack the ability to export),
-that we hope to see either see either an alternative to, or a prompt release, under an 
+that we hope to see either an alternative to, or a prompt release, under an 
 approved Community License.
 
 #### Note
