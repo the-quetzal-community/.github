@@ -1,5 +1,5 @@
 We are a community available for anyone to participate in, with the aim to 
-develop and encourage the use of collaborative creative spaces
+develop and encourage the use of creative community spaces
 available under an [Approved License](https://the.quetzal.community/approved-licenses) 
 where users can share their creations and retain free usage rights to their work.
 
@@ -8,9 +8,9 @@ contributing member on Github by
 [starting a discussion](https://the.quetzal.community/.github/discussions)
 and letting us know how you would like to contribute to our cause.
 
-#### What is a Creative Space?
-A creative space is generally a software application, webapp, or game where 
-users can arrange primitive elements together to create new things.
+#### What is a Creative Community Space?
+A creative community space is generally a software application, webapp, or game 
+where users can arrange primitive elements together to create new things.
 
 If you are looking for creative spaces to explore, we maintain a list of
 [Approved Spaces](https://the.quetzal.community/approved-spaces).
